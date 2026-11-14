@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="132" viewBox="0 0 360 132" role="img" aria-labelledby="title">
+  <title id="title">Rongdafon</title>
+  <rect width="360" height="132" rx="24" fill="none"/>
+  <path d="M49 47h57c18 0 30 10 30 25 0 13-8 22-22 25l25 24h-34L82 99H75v22H49V47Z" fill="#0A315E"/>
+  <path d="M75 67v14h27c6 0 10-3 10-7s-4-7-10-7H75Z" fill="#FFFFFF"/>
+  <text x="150" y="80" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="850" fill="#102235">rongdafon</text>
+  <path d="M154 90h142" stroke="#0B7778" stroke-width="5" stroke-linecap="round"/>
+</svg>

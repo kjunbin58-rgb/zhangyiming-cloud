@@ -1,0 +1,55 @@
+# 一鸣出海 zhangyiming.cloud
+# 更新：2026-11-07 —— 搜索引擎与 AI 检索爬虫统一放行
+
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /api/
+Disallow: /data/
+Disallow: /quote.html
+
+# 字节系：头条搜索 / 抖音搜索 / 豆包联网检索的内容来源
+User-agent: Bytespider
+User-agent: ToutiaoSpider
+User-agent: BytedanceWebSpider
+User-agent: ByteDance
+Allow: /
+Disallow: /admin.html
+Disallow: /api/
+Disallow: /data/
+Disallow: /quote.html
+
+# 传统搜索引擎
+User-agent: Baiduspider
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: Sogou web spider
+User-agent: 360Spider
+User-agent: YisouSpider
+User-agent: PetalBot
+Allow: /
+Disallow: /admin.html
+Disallow: /api/
+Disallow: /data/
+Disallow: /quote.html
+
+# 主流 AI 检索爬虫（ChatGPT / Claude / Perplexity / Google AI 等）
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-Web
+User-agent: PerplexityBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+User-agent: Amazonbot
+User-agent: cohere-ai
+User-agent: Meta-ExternalAgent
+Allow: /
+Disallow: /admin.html
+Disallow: /api/
+Disallow: /data/
+Disallow: /quote.html
+
+Sitemap: https://zhangyiming.cloud/sitemap.xml

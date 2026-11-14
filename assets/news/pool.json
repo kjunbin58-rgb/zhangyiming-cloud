@@ -1,0 +1,51 @@
+{
+ "_note": "文章配图池。Pexels 免费授权（可商用、免署名）。文件名 = p<PexelsPhotoID>.jpg，下载地址 https://images.pexels.com/photos/<ID>/pexels-photo-<ID>.jpeg?auto=compress&cs=tinysrgb&w=1200 。新增图片后同步更新本文件。写作时按国家/主题标签取图，每篇文章 1 张，同一天 10 篇尽量不重复。",
+ "tags": {
+  "indonesia": [
+   "p31456639.jpg",
+   "p32327756.jpg",
+   "p36732232.jpg",
+   "p5320623.jpg",
+   "p3848793.jpg"
+  ],
+  "malaysia": [
+   "p38272708.jpg",
+   "p18096357.jpg",
+   "p35564910.jpg"
+  ],
+  "thailand": [
+   "p37391280.jpg",
+   "p36538433.jpg",
+   "p36483736.jpg"
+  ],
+  "vietnam": [
+   "p35662852.jpg",
+   "p38385774.jpg",
+   "p19822715.jpg",
+   "p18882074.jpg"
+  ],
+  "philippines": [
+   "p33076681.jpg",
+   "p20835811.jpg",
+   "p36835100.jpg"
+  ],
+  "documents": [
+   "p5387261.jpg",
+   "p8730998.jpg",
+   "p6667676.jpg",
+   "p8815843.jpg"
+  ],
+  "general": [
+   "p22147531.jpg",
+   "p33685484.jpg",
+   "p39142681.jpg",
+   "p6169189.jpg",
+   "p8442027.jpg",
+   "p9574459.jpg"
+  ],
+  "singapore": [
+   "p18662417.jpg",
+   "p18340309.jpg"
+  ]
+ }
+}
