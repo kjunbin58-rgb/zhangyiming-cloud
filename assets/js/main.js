@@ -142,7 +142,9 @@
     }, { passive: true });
   }
 
-  /* 表单提交：推送到邮箱（FormSubmit） */
+  /* 表单提交：静态托管下由 FormSubmit 转发到邮箱。
+     后端恢复后把 LEAD_API 改回 'api/lead' 即可，降级分支自动失效。
+     _captcha=false 必须带：FormSubmit 默认开启验证码，AJAX 提交会被挡。 */
   var toast = document.querySelector('.toast');
   function showToast(msg, ms) {
     if (toast) {
@@ -151,7 +153,19 @@
       setTimeout(function () { toast.classList.remove('show'); }, ms || 3600);
     }
   }
-  var LEAD_API = 'api/lead'; // 站内接口：由 server.py 经 QQ 邮箱 SMTP 直发邮件
+  var LEAD_API = 'https://formsubmit.co/ajax/dsp592@88.com';
+  var CONTACT_MAIL = 'dsp592@88.com';
+  var CONTACT_TEL = '400-789-136';
+  /* 第三方不可用时的兜底：把填写内容复制到剪贴板，线索不至于凭空丢掉 */
+  function copyLead(data, isSub) {
+    var lines = Object.keys(data).map(function (k) { return k + '：' + data[k]; });
+    var text = (isSub ? '【官网简报订阅】' : '【官网咨询表单】') + '\n' + lines.join('\n');
+    try {
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).catch(function () {});
+      }
+    } catch (e) {}
+  }
   document.querySelectorAll('form[data-demo]').forEach(function (f) {
     f.addEventListener('submit', function (e) {
       e.preventDefault();
@@ -167,23 +181,35 @@
       data['提交页面'] = location.pathname;
       var isSub = f.getAttribute('data-subscribe') != null; // 订阅简报表单
       if (isSub) data['提交类型'] = '简报订阅';
+      var payload = {};
+      Object.keys(data).forEach(function (k) { payload[k] = data[k]; });
+      payload['_subject'] = isSub ? '官网简报订阅' : '官网新线索（' + location.hostname + '）';
+      payload['_captcha'] = 'false';
+      payload['_template'] = 'table';
       if (btn) { btn.disabled = true; btn.style.opacity = .6; }
+      function fallback() {
+        copyLead(data, isSub);
+        showToast('在线提交暂不可用，已复制您填写的内容。请拨打电话 ' + CONTACT_TEL +
+                  '，或粘贴到微信/邮件发至 ' + CONTACT_MAIL, 9000);
+      }
       fetch(LEAD_API, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
-        body: JSON.stringify(data)
-      }).then(function (r) { return r.json().then(function (j) { return { ok: r.ok && j.ok !== false }; }).catch(function () { return { ok: r.ok }; }); })
+        body: JSON.stringify(payload)
+      }).then(function (r) {
+        return r.json().then(function (j) {
+          return { ok: r.ok && j.ok !== false && j.success !== false && j.success !== 'false' };
+        }).catch(function () { return { ok: r.ok }; });
+      })
         .then(function (res) {
           if (res.ok) {
             showToast(isSub ? '订阅成功！每月合规简报将发送至您的邮箱' : '已收到您的信息，顾问将在 1 个工作日内联系您');
             f.reset();
           } else {
-            showToast((isSub ? '订阅失败' : '提交失败') + '，请直接拨打电话 400-789-136', 6000);
+            fallback();
           }
         })
-        .catch(function () {
-          showToast((isSub ? '订阅失败' : '提交失败') + '，请直接拨打电话 400-789-136', 6000);
-        })
+        .catch(function () { fallback(); })
         .finally(function () { if (btn) { btn.disabled = false; btn.style.opacity = ''; } });
     });
   });

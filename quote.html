@@ -263,43 +263,51 @@ $('#vList').onclick=function(){document.body.classList.remove('grid');$('#vList'
 $('#vGrid').onclick=function(){document.body.classList.add('grid');$('#vGrid').classList.add('on');$('#vList').classList.remove('on')};
 $('#filterHead').onclick=function(){$('#filterCard').classList.toggle('collapsed')};
 
-/* ---------- 密码 ---------- */
-var token=localStorage.getItem('quote-token');
+/* ---------- 密码：静态托管下改为浏览器端解密 ----------
+   报价数据由 _build_quote_static.js 以 AES-256-GCM 加密后发布。
+   密钥 = PBKDF2-SHA256(访问密码)，密码本身不写进任何前端文件；
+   密文被抓走也无法还原报价（GCM 认证标签会校验失败）。
+   明文数据只留在内存里，刷新页面需重新输入密码。 */
 function showPw(){$('#pwMask').classList.remove('hidden');setTimeout(function(){$('#pwInput').focus()},100)}
 $('#pwOk').onclick=doVerify;
 $('#pwInput').addEventListener('keydown',function(e){if(e.key==='Enter')doVerify()});
+function b64(s){var t=atob(s),u=new Uint8Array(t.length);for(var i=0;i<t.length;i++)u[i]=t.charCodeAt(i);return u}
+function decryptQuote(pw,enc){
+  var te=new TextEncoder();
+  return crypto.subtle.importKey('raw',te.encode(pw),'PBKDF2',false,['deriveKey'])
+  .then(function(base){return crypto.subtle.deriveKey(
+    {name:'PBKDF2',salt:b64(enc.salt),iterations:enc.iter,hash:'SHA-256'},
+    base,{name:'AES-GCM',length:256},false,['decrypt'])})
+  .then(function(key){return crypto.subtle.decrypt({name:'AES-GCM',iv:b64(enc.iv)},key,b64(enc.ct))})
+  .then(function(buf){return JSON.parse(new TextDecoder().decode(buf))});
+}
 function doVerify(){
   var pw=$('#pwInput').value.trim();
   if(!pw){$('#pwErr').textContent='请输入访问密码';return}
-  $('#pwErr').textContent='';
-  fetch('api/v1/verify-direct',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({password:pw})})
-  .then(function(r){return r.json()}).then(function(j){
-    if(j.code===0){token=j.data.token;localStorage.setItem('quote-token',token);$('#pwMask').classList.add('hidden');loadProducts()}
-    else{$('#pwErr').textContent=(j.message||'密码不正确')}
-  }).catch(function(){$('#pwErr').textContent='网络异常，请稍后再试'})
+  $('#pwErr').textContent='正在验证…';
+  var btn=$('#pwOk');btn.disabled=true;
+  fetch('api/v1/products/grouped.json').then(function(r){return r.json()})
+  .then(function(enc){return decryptQuote(pw,enc)})
+  .then(function(d){
+    state.groups=d.groups||[];state.loaded=true;
+    $('#pwMask').classList.add('hidden');
+    renderSidebar();renderResult();
+  })
+  .catch(function(){$('#pwErr').textContent='访问密码不正确，或数据加载失败'})
+  .then(function(){btn.disabled=false});
 }
 
-/* ---------- 数据加载 ---------- */
+/* ---------- 数据加载（分类/国家为公开静态 JSON） ---------- */
 function boot(){
-  fetch('api/v1/settings/site').then(function(r){return r.json()}).then(function(j){
+  fetch('api/v1/settings/site.json').then(function(r){return r.json()}).then(function(j){
     if(j.code===0&&j.data&&j.data.site_title)document.title=j.data.site_title,$('.topbar h1').textContent=j.data.site_title,$('.pw-box h3').textContent='请输入访问密码';
   }).catch(function(){});
-  Promise.all([fetch('api/v1/categories').then(function(r){return r.json()}),fetch('api/v1/countries').then(function(r){return r.json()})])
+  Promise.all([fetch('api/v1/categories.json').then(function(r){return r.json()}),fetch('api/v1/countries.json').then(function(r){return r.json()})])
   .then(function(rs){
     state.cats=rs[0].data||[];state.ctys=rs[1].data||[];
     renderChips();
-    if(token){loadProducts()}else{showPw()}
+    showPw();
   }).catch(function(){toast('数据加载失败，请刷新重试',4000)});
-}
-function loadProducts(){
-  fetch('api/v1/products/grouped',{headers:{'X-Quote-Token':token}}).then(function(r){
-    if(r.status===401){token=null;localStorage.removeItem('quote-token');showPw();throw 0}
-    return r.json();
-  }).then(function(j){
-    if(j.code!==0)throw 0;
-    state.groups=j.data.groups||[];state.loaded=true;
-    renderSidebar();renderResult();
-  }).catch(function(e){if(e!==0)toast('报价数据加载失败，请刷新重试',4000)});
 }
 
 /* ---------- 筛选 chips：第一行国家 / 第二行服务母菜单 / 第三行子菜单 ---------- */

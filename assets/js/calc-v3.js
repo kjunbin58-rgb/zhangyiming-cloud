@@ -438,13 +438,22 @@
       '来源页面': location.pathname + location.search
     };
     tip.className = 'v3-tip'; tip.textContent = '正在提交…';
-    fetch('/api/lead', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) })
+    var out = {};
+    Object.keys(payload).forEach(function (k) { out[k] = payload[k]; });
+    out['_subject'] = '官网方案书申请 ' + state.code;
+    out['_captcha'] = 'false';
+    out['_template'] = 'table';
+    fetch('https://formsubmit.co/ajax/dsp592@88.com', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+      body: JSON.stringify(out)
+    })
       .then(function (res) { return res.json(); })
       .then(function (j) {
-        if (j && j.ok) { tip.className = 'v3-tip ok'; tip.innerHTML = '已收到，方案编号 <b>' + state.code + '</b>。我们会在 1 个工作小时内把 PDF 方案书发到 ' + esc(mail) + '。'; }
-        else { tip.className = 'v3-tip err'; tip.textContent = '提交失败，请稍后重试或直接联系微信 klingsport。'; }
+        if (j && j.ok !== false && j.success !== false && j.success !== 'false') { tip.className = 'v3-tip ok'; tip.innerHTML = '已收到，方案编号 <b>' + state.code + '</b>。我们会在 1 个工作小时内把 PDF 方案书发到 ' + esc(mail) + '。'; }
+        else { tip.className = 'v3-tip err'; tip.textContent = '提交失败，请直接拨打电话 400-789-136 或联系微信 klingsport。'; }
       })
-      .catch(function () { tip.className = 'v3-tip err'; tip.textContent = '网络异常，请稍后重试或直接联系微信 klingsport。'; });
+      .catch(function () { tip.className = 'v3-tip err'; tip.textContent = '网络异常，请直接拨打电话 400-789-136 或联系微信 klingsport。'; });
   }
 
   function open(el) {
