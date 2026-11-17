@@ -155,7 +155,7 @@
   }
   var LEAD_API = 'https://formsubmit.co/ajax/dsp592@88.com';
   var CONTACT_MAIL = 'dsp592@88.com';
-  var CONTACT_TEL = '400-789-136';
+  var CONTACT_TEL = '4008-789-136';
   /* 第三方不可用时的兜底：把填写内容复制到剪贴板，线索不至于凭空丢掉 */
   function copyLead(data, isSub) {
     var lines = Object.keys(data).map(function (k) { return k + '：' + data[k]; });

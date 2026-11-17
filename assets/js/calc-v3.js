@@ -451,9 +451,9 @@
       .then(function (res) { return res.json(); })
       .then(function (j) {
         if (j && j.ok !== false && j.success !== false && j.success !== 'false') { tip.className = 'v3-tip ok'; tip.innerHTML = '已收到，方案编号 <b>' + state.code + '</b>。我们会在 1 个工作小时内把 PDF 方案书发到 ' + esc(mail) + '。'; }
-        else { tip.className = 'v3-tip err'; tip.textContent = '提交失败，请直接拨打电话 400-789-136 或联系微信 klingsport。'; }
+        else { tip.className = 'v3-tip err'; tip.textContent = '提交失败，请直接拨打电话 4008-789-136 或联系微信 klingsport。'; }
       })
-      .catch(function () { tip.className = 'v3-tip err'; tip.textContent = '网络异常，请直接拨打电话 400-789-136 或联系微信 klingsport。'; });
+      .catch(function () { tip.className = 'v3-tip err'; tip.textContent = '网络异常，请直接拨打电话 4008-789-136 或联系微信 klingsport。'; });
   }
 
   function open(el) {
