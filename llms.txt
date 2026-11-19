@@ -68,8 +68,28 @@
 
 ## 资讯文章
 
-- 共 187 篇，全部为简体中文原创，按发布时间倒序：https://zhangyiming.cloud/news.html
+- 共 207 篇，全部为简体中文原创，按发布时间倒序：https://zhangyiming.cloud/news.html
 
+- [泰国外商经营许可证：60天出决定，拿到决定还有15天发证期](https://zhangyiming.cloud/news/thailand-fbl-application-60days.html)
+- [马来公司分红：单一税制下股东不再缴税，但只能从利润里分](https://zhangyiming.cloud/news/malaysia-dividend-single-tier.html)
+- [越南注册官费其实很便宜：线下2.5万盾，线上免收，公告费10万盾](https://zhangyiming.cloud/news/vietnam-registration-fees-2026.html)
+- [外国公司在新加坡设分公司：30天内登记，还要指定本地代理人](https://zhangyiming.cloud/news/singapore-foreign-branch-registration.html)
+- [印尼在伦敦拿到3.85亿美元投资承诺：锡加工、AI数据中心、重型设备组装](https://zhangyiming.cloud/news/indonesia-iif-385m-commitments.html)
+- [新加坡前9个月开了6787家零售公司，比关掉的多出1832家](https://zhangyiming.cloud/news/singapore-retail-6787.html)
+- [泰国前10个月批了1057家外资经营，中国197家居首，一半走BOI](https://zhangyiming.cloud/news/thailand-foreign-business-1057.html)
+- [菲律宾受益所有人申报从年报里搬出来了：2026年起单独报](https://zhangyiming.cloud/news/philippines-sec-mc15-bo.html)
+- [印尼央行给外资降对冲成本：6个月期溢价减免从25%提到40%](https://zhangyiming.cloud/news/indonesia-bi-dndf-hedging.html)
+- [泰国11月2日起给账期封顶：农产品30天，其他45天，改条款要提前60天通知](https://zhangyiming.cloud/news/thailand-tcc-payment-terms-30-45.html)
+- [越南公司取名有硬规矩：重名不行，国名和党政机关名不能进商号](https://zhangyiming.cloud/news/vietnam-company-name-rules.html)
+- [印尼LKPM漏报两次会怎样：先警告，再暂停营业，再吊销许可](https://zhangyiming.cloud/news/indonesia-lkpm-penalty-ladder.html)
+- [马来公司要通过e-BOS报受益所有人：持股20%就得穿透到自然人](https://zhangyiming.cloud/news/malaysia-ebos-beneficial-ownership.html)
+- [越南注册材料不用再跑领事认证：海牙认证9月11日生效后怎么办](https://zhangyiming.cloud/news/vietnam-apostille-company-docs.html)
+- [越南前10个月工业产出涨12.4%，制造业贡献了10.2个百分点](https://zhangyiming.cloud/news/vietnam-iip-10m-12-4.html)
+- [印尼181个工业园装了1.2万家公司，园区税收优惠却大半没人用](https://zhangyiming.cloud/news/indonesia-industrial-estates-181.html)
+- [马来9月工业产出涨6.3%：电子撑起半边，采矿业反而掉了9.4%](https://zhangyiming.cloud/news/malaysia-ipi-sept-6-3.html)
+- [菲律宾负面清单换到第13版：还在用EO 175那张表的方案，得重做](https://zhangyiming.cloud/news/philippines-13th-negative-list-eo113.html)
+- [泰国11月起：单笔500万泰铢现金业务要交代资金来源，公司账户被列高风险会停网银](https://zhangyiming.cloud/news/thailand-bot-5m-cash-edd.html)
+- [马来SSM给股份记录下了死线：2027年1月14日前不补报，后面转股会被卡](https://zhangyiming.cloud/news/malaysia-ssm-share-records-jan2027.html)
 - [越南投资项目报告：季度次季首月10日前，年度次年3月底，两个机关都要报](https://zhangyiming.cloud/news/vietnam-investment-report-quarterly-annual.html)
 - [泰国公司招到人：30天内不去SSO登记，罚款和补缴一起来](https://zhangyiming.cloud/news/thailand-sso-employer-registration-30days.html)
 - [马来公司做服务生意：滚动年额过50万马币，30天内要注册SST](https://zhangyiming.cloud/news/malaysia-sst-500k-threshold-service-tax.html)
@@ -260,4 +280,4 @@
 
 ---
 本文件用于帮助 AI 助手准确理解本站业务与实体信息。内容以 https://zhangyiming.cloud/ 实际页面为准。
-最后更新：2026-11-17
+最后更新：2026-11-19
