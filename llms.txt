@@ -68,8 +68,28 @@
 
 ## 资讯文章
 
-- 共 207 篇，全部为简体中文原创，按发布时间倒序：https://zhangyiming.cloud/news.html
+- 共 227 篇，全部为简体中文原创，按发布时间倒序：https://zhangyiming.cloud/news.html
 
+- [泰国非BOI公司请一个外籍员工，要配四个泰籍、备200万泰铢资本](https://zhangyiming.cloud/news/thailand-foreign-staff-quota-1to4-2m.html)
+- [新加坡公司税籍看董事会在哪开，不是注册地也不是183天](https://zhangyiming.cloud/news/singapore-tax-residency-control-management-test.html)
+- [越南雇第一个人就要在30天内登记社保，漏缴可能触及刑责](https://zhangyiming.cloud/news/vietnam-first-hire-si-registration-30days.html)
+- [印尼企业所得税按月预缴：每月15日缴、20日申报，新公司首年可为0](https://zhangyiming.cloud/news/indonesia-pph25-monthly-instalment-coretax.html)
+- [印尼25个经济特区累计引入382.1万亿盾投资，园区逻辑在变](https://zhangyiming.cloud/news/indonesia-25-kek-382trillion-cumulative.html)
+- [印尼与中国签下718亿美元投资谅解备忘录，承诺额不等于落地额](https://zhangyiming.cloud/news/indonesia-china-apec-71p8b-mou.html)
+- [马来西亚三季度末外资存量1.234万亿令吉，单季增加1195亿](https://zhangyiming.cloud/news/malaysia-q3-fdi-position-rm1p23trillion.html)
+- [菲律宾电子发票12月31日大限：用Word、Excel开票不算数](https://zhangyiming.cloud/news/philippines-rmc98-einvoice-dec31-deadline.html)
+- [马来西亚担保有限公司指引11月11日更新：董事领薪要批，银行流水从"应"改"须"](https://zhangyiming.cloud/news/malaysia-ssm-clbg-guideline-nov11.html)
+- [菲律宾BIR要求发票单列可抵扣预扣税，2027年1月1日前要改系统](https://zhangyiming.cloud/news/philippines-rmc112-cwt-invoice-field.html)
+- [菲律宾年营收超300万比索必须注册VAT，B2B交易也要看清这条](https://zhangyiming.cloud/news/philippines-vat-3m-threshold-digital-services.html)
+- [泰国长期签证每90天要报一次住址，逾期罚2000铢还影响续签](https://zhangyiming.cloud/news/thailand-90day-report-tm47.html)
+- [马来西亚付给非居民的款项要按月扣缴，漏扣加罚10%且费用不得扣除](https://zhangyiming.cloud/news/malaysia-withholding-tax-nonresident-sections.html)
+- [印尼增值税写12%，实际按11%交：PMK-131/2024把算法改了](https://zhangyiming.cloud/news/indonesia-vat-11-12-effective-rate-pmk131.html)
+- [越南海防年内引资42亿美元，823个中资项目占存量26%](https://zhangyiming.cloud/news/vietnam-haiphong-4b-fdi-chinese-projects.html)
+- [马来西亚前9个月批了1235亿令吉数据中心投资，占全部批文35.2%](https://zhangyiming.cloud/news/malaysia-data-centre-rm123b-9m-2026.html)
+- [泰国三季度增长2.9%：投资增速冲到55季新高，拉动的不是消费](https://zhangyiming.cloud/news/thailand-q3-gdp-2p9-investment-55quarters.html)
+- [新加坡11月30日撞上两个期限：32万家公司报税，财报工具必须换4.0.1](https://zhangyiming.cloud/news/singapore-nov30-tax-filing-bizfinx-deadline.html)
+- [印尼新劳动法10月28日生效：股东董事不再自动豁免工作许可，HR岗禁用外籍](https://zhangyiming.cloud/news/indonesia-law-27-2026-foreign-worker-rptka.html)
+- [越南11月20日通过税法修订：闲置土地按总价值征0.2%，2027年7月起](https://zhangyiming.cloud/news/vietnam-idle-land-tax-0p2-nov20-law.html)
 - [泰国外商经营许可证：60天出决定，拿到决定还有15天发证期](https://zhangyiming.cloud/news/thailand-fbl-application-60days.html)
 - [马来公司分红：单一税制下股东不再缴税，但只能从利润里分](https://zhangyiming.cloud/news/malaysia-dividend-single-tier.html)
 - [越南注册官费其实很便宜：线下2.5万盾，线上免收，公告费10万盾](https://zhangyiming.cloud/news/vietnam-registration-fees-2026.html)
@@ -280,4 +300,4 @@
 
 ---
 本文件用于帮助 AI 助手准确理解本站业务与实体信息。内容以 https://zhangyiming.cloud/ 实际页面为准。
-最后更新：2026-11-19
+最后更新：2026-11-21
