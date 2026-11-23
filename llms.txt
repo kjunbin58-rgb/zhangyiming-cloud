@@ -68,7 +68,7 @@
 
 ## 资讯文章
 
-- 共 247 篇，全部为简体中文原创，按发布时间倒序：https://zhangyiming.cloud/news.html
+- 共 257 篇，全部为简体中文原创，按发布时间倒序：https://zhangyiming.cloud/news.html
 
 - [越南投资人不是自动免工作证：豁免确认书与暂住卡的五个工作日](https://zhangyiming.cloud/news/vietnam-dica-investor-work-permit-exemption.html)
 - [菲律宾拿到SEC证书之后：账簿登记与发票印刷许可卡在BIR](https://zhangyiming.cloud/news/philippines-bir-1906-books-after-sec.html)
@@ -80,6 +80,16 @@
 - [新加坡企业补助换门牌：EDGE取代三项旧计划，30%本地持股是门槛](https://zhangyiming.cloud/news/singapore-edges-grant-30pct-local-equity.html)
 - [越南100亿盾以下企业两年减三成所得税，10亿盾以下另有免征档](https://zhangyiming.cloud/news/vietnam-decree398-30pct-cit-cut.html)
 - [印尼逾期报税罚款减免开三个月窗口：12月底前补报减100%](https://zhangyiming.cloud/news/indonesia-pmk71-spt-penalty-waiver.html)
+- [马来西亚 Sdn Bhd 一年交三样：年报 RM150、财报 RM50、Form C 按7个月算](https://zhangyiming.cloud/news/malaysia-sdn-bhd-annual-compliance-calendar.html)
+- [在菲律宾注册公司，法律上不强制请律师，但有几类活绕不开](https://zhangyiming.cloud/news/philippines-do-i-need-lawyer-incorporate.html)
+- [印尼公司注册官费换新表：授权资本分四档，年报8月起免费到年底](https://zhangyiming.cloud/news/indonesia-ahu-pnbp-tariff-pp30.html)
+- [越南老外资企业的旧投资许可证，不强制换，但一变更就得转](https://zhangyiming.cloud/news/vietnam-legacy-investment-license-conversion.html)
+- [新加坡10月新设6994家，低于年内月均，存量仍在爬升](https://zhangyiming.cloud/news/singapore-acra-oct-6994-formations.html)
+- [菲律宾三大机构批了1.4万亿比索投资，同比增39%，但批了不等于到账](https://zhangyiming.cloud/news/philippines-1p4trillion-approved-investments.html)
+- [印尼三季度外资反超内资：FDI 占51.1%，金属加工吃掉大头](https://zhangyiming.cloud/news/indonesia-q3-fdi-outweighs-domestic.html)
+- [越南2027年工资下限定了：四区570万到404万盾，1月1日起执行](https://zhangyiming.cloud/news/vietnam-decree399-wage-floor-2027.html)
+- [泰国公司注册地址要上门拍照了：DBD 与邮政签备忘录，信函没人收就过不了](https://zhangyiming.cloud/news/thailand-dbd-postal-mou-address-check.html)
+- [印尼公司年报换了法条依据：Permenkum 24/2026 生效，别再按旧规备料](https://zhangyiming.cloud/news/indonesia-permenkum24-annual-report-filing.html)
 - [新加坡非上市公司年报有两个钟：AGM六个月，AR七个月](https://zhangyiming.cloud/news/singapore-agm-ar-six-seven-months.html)
 - [越南外资持股跨过50%就要另开DICA账户，51%的老口径已改](https://zhangyiming.cloud/news/vietnam-dica-50pct-circular03.html)
 - [泰国PND53代扣代缴：付给本地公司也要扣，纸质7日电子15日](https://zhangyiming.cloud/news/thailand-pnd53-withholding-7-15.html)
