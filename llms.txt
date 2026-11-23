@@ -68,8 +68,28 @@
 
 ## 资讯文章
 
-- 共 227 篇，全部为简体中文原创，按发布时间倒序：https://zhangyiming.cloud/news.html
+- 共 247 篇，全部为简体中文原创，按发布时间倒序：https://zhangyiming.cloud/news.html
 
+- [越南投资人不是自动免工作证：豁免确认书与暂住卡的五个工作日](https://zhangyiming.cloud/news/vietnam-dica-investor-work-permit-exemption.html)
+- [菲律宾拿到SEC证书之后：账簿登记与发票印刷许可卡在BIR](https://zhangyiming.cloud/news/philippines-bir-1906-books-after-sec.html)
+- [马来西亚EP薪资新档已跑半年：三级门槛与本地刊登14个工作日怎么配](https://zhangyiming.cloud/news/malaysia-ep-salary-tiers-june2026.html)
+- [印尼工作许可链条：IMTA已废除，RPTKA批复加电子通知才是现行路径](https://zhangyiming.cloud/news/indonesia-rptka-notifikasi-work-permit.html)
+- [新加坡在册商业实体增至64万家，新设与停业同步走高](https://zhangyiming.cloud/news/singapore-acra-640842-entities.html)
+- [菲律宾前10月商号登记逼近百万件，九成是独资不是公司](https://zhangyiming.cloud/news/philippines-dti-986780-business-names.html)
+- [印尼10月证券投资回流6.6亿美元，前三季度曾净流出](https://zhangyiming.cloud/news/indonesia-bi-october-portfolio-inflow.html)
+- [新加坡企业补助换门牌：EDGE取代三项旧计划，30%本地持股是门槛](https://zhangyiming.cloud/news/singapore-edges-grant-30pct-local-equity.html)
+- [越南100亿盾以下企业两年减三成所得税，10亿盾以下另有免征档](https://zhangyiming.cloud/news/vietnam-decree398-30pct-cit-cut.html)
+- [印尼逾期报税罚款减免开三个月窗口：12月底前补报减100%](https://zhangyiming.cloud/news/indonesia-pmk71-spt-penalty-waiver.html)
+- [新加坡非上市公司年报有两个钟：AGM六个月，AR七个月](https://zhangyiming.cloud/news/singapore-agm-ar-six-seven-months.html)
+- [越南外资持股跨过50%就要另开DICA账户，51%的老口径已改](https://zhangyiming.cloud/news/vietnam-dica-50pct-circular03.html)
+- [泰国PND53代扣代缴：付给本地公司也要扣，纸质7日电子15日](https://zhangyiming.cloud/news/thailand-pnd53-withholding-7-15.html)
+- [马来西亚Sdn Bhd开户退件，多半卡在SSM文件30天有效期](https://zhangyiming.cloud/news/malaysia-sdn-bhd-bank-account-documents.html)
+- [越南前10月新设企业注册资本增34.3%，企业数反而微降](https://zhangyiming.cloud/news/vietnam-registered-capital-34p3-10m.html)
+- [泰国东部经济走廊吸走三成外资，中资项目数居首但金额不及日本](https://zhangyiming.cloud/news/thailand-eec-foreign-323-10m.html)
+- [马来西亚前9月获批投资3504亿令吉，外资占比六成](https://zhangyiming.cloud/news/malaysia-mida-9m-rm350b.html)
+- [菲律宾BIR发RMC 116：退税期限撞上居家办公日，自动顺延一个工作日](https://zhangyiming.cloud/news/philippines-bir-rmc116-wfh-deadline.html)
+- [越南财政部拟主动注销停业十年税号，补报罚款按三档递减](https://zhangyiming.cloud/news/vietnam-tax-code-cleanup-draft-nov21.html)
+- [印尼税务总局点名8163家跨国企业：15%全球税申报转入名单制](https://zhangyiming.cloud/news/indonesia-djp-8163-mne-global-tax.html)
 - [泰国非BOI公司请一个外籍员工，要配四个泰籍、备200万泰铢资本](https://zhangyiming.cloud/news/thailand-foreign-staff-quota-1to4-2m.html)
 - [新加坡公司税籍看董事会在哪开，不是注册地也不是183天](https://zhangyiming.cloud/news/singapore-tax-residency-control-management-test.html)
 - [越南雇第一个人就要在30天内登记社保，漏缴可能触及刑责](https://zhangyiming.cloud/news/vietnam-first-hire-si-registration-30days.html)
@@ -300,4 +320,4 @@
 
 ---
 本文件用于帮助 AI 助手准确理解本站业务与实体信息。内容以 https://zhangyiming.cloud/ 实际页面为准。
-最后更新：2026-11-21
+最后更新：2026-11-23
