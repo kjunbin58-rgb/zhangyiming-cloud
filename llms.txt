@@ -73,8 +73,18 @@
 
 ## 资讯文章
 
-- 共 267 篇，全部为简体中文原创，按发布时间倒序：https://zhangyiming.cloud/news.html
+- 共 277 篇，全部为简体中文原创，按发布时间倒序：https://zhangyiming.cloud/news.html
 
+- [菲律宾改公司名：要2/3股本点头，SEC批了才算数](https://zhangyiming.cloud/news/philippines-corporate-name-change-sec.html)
+- [越南换法定代表人：10天内报，3个工作日下新证](https://zhangyiming.cloud/news/vietnam-legal-representative-change-10days.html)
+- [新加坡转股：0.2%印花税14天内交，迟交罚到4倍](https://zhangyiming.cloud/news/singapore-share-transfer-stamp-duty-14days.html)
+- [马来换注册地址：14天内报SSM，逾期罚款上限5万令吉](https://zhangyiming.cloud/news/malaysia-registered-office-change-14days.html)
+- [印尼前10个月税收1796.8万亿盾，全年目标只完成76.2%](https://zhangyiming.cloud/news/indonesia-tax-revenue-oct-2026-target-gap.html)
+- [越南前10个月：24.36万家新设或复产，18.2万家退出](https://zhangyiming.cloud/news/vietnam-10m-2026-business-entry-exit.html)
+- [马来Q3增长5.5%，私人投资涨9.4%：注册量的支撑在这里](https://zhangyiming.cloud/news/malaysia-q3-2026-gdp-private-investment.html)
+- [印尼欧盟签了：去雅加达设公司可待120天，但签证没免](https://zhangyiming.cloud/news/indonesia-eu-cepa-nov21-staff-mobility.html)
+- [越南11月20日通过中小企业法：新设小微免税，工业园地租补三成](https://zhangyiming.cloud/news/vietnam-sme-law-2026-passed.html)
+- [泰国代持判了实刑：董事3年、公司罚100万铢并停业](https://zhangyiming.cloud/news/thailand-nominee-criminal-verdict-nov18.html)
 - [新加坡迁册不是新公司捷径：三选二规模门槛，获批后60天内要销掉原注册地](https://zhangyiming.cloud/news/singapore-redomiciliation-two-of-three-test.html)
 - [菲律宾分公司不是注册完就完：50万比索保证金和常驻代理人两件事常被漏](https://zhangyiming.cloud/news/philippines-branch-security-deposit-500k.html)
 - [泰国文件认证别抢跑：海牙要2027年2月28日才生效，现在办Apostille会被退](https://zhangyiming.cloud/news/thailand-apostille-february2027-dual-certification.html)
@@ -345,4 +355,4 @@
 
 ---
 本文件用于帮助 AI 助手准确理解本站业务与实体信息。内容以 https://zhangyiming.cloud/ 实际页面为准。
-最后更新：2026-11-24
+最后更新：2026-11-25
