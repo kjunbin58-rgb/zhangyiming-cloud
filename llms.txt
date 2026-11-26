@@ -73,8 +73,18 @@
 
 ## 资讯文章
 
-- 共 277 篇，全部为简体中文原创，按发布时间倒序：https://zhangyiming.cloud/news.html
+- 共 287 篇，全部为简体中文原创，按发布时间倒序：https://zhangyiming.cloud/news.html
 
+- [印尼个人卖家12月底前交NIB：条例给18个月，平台只给到年底](https://zhangyiming.cloud/news/indonesia-nib-platform-deadline-dec2026.html)
+- [泰国逾100万家法人被提醒：网站直接卖货可能要先登记](https://zhangyiming.cloud/news/thailand-ocpb-direct-marketing-registration-nov16.html)
+- [越南战略项目新法：优惠与到资挂钩，2027年3月31日施行](https://zhangyiming.cloud/news/vietnam-investment-law-strategic-projects-nov20.html)
+- [菲律宾10月国际收支逆差15亿美元，FDI仍是缓冲项](https://zhangyiming.cloud/news/philippines-bop-october-1p5b-fdi.html)
+- [印尼总统24日催35项对华协议落地，规模约150亿美元](https://zhangyiming.cloud/news/indonesia-china-forum-35-deals-15-billion.html)
+- [马来西亚10月贸易4366亿令吉，电子电气出口占去一半](https://zhangyiming.cloud/news/malaysia-oct-trade-rm436-billion.html)
+- [马来西亚付经销商佣金：CP58报表和2%预提是两件事](https://zhangyiming.cloud/news/malaysia-cp58-agent-commission-2pct.html)
+- [印尼KBLI换成2025版后，章程到底要不要改](https://zhangyiming.cloud/news/indonesia-kbli-2025-aoa-amendment.html)
+- [新加坡RORC：控制人变更后7天入册，2个工作日报ACRA](https://zhangyiming.cloud/news/singapore-rorc-beneficial-owner-7days.html)
+- [菲律宾外资母公司签字文件：哪些要海牙认证，哪些仍走使领馆](https://zhangyiming.cloud/news/philippines-apostille-foreign-parent-documents.html)
 - [菲律宾改公司名：要2/3股本点头，SEC批了才算数](https://zhangyiming.cloud/news/philippines-corporate-name-change-sec.html)
 - [越南换法定代表人：10天内报，3个工作日下新证](https://zhangyiming.cloud/news/vietnam-legal-representative-change-10days.html)
 - [新加坡转股：0.2%印花税14天内交，迟交罚到4倍](https://zhangyiming.cloud/news/singapore-share-transfer-stamp-duty-14days.html)
@@ -355,4 +365,4 @@
 
 ---
 本文件用于帮助 AI 助手准确理解本站业务与实体信息。内容以 https://zhangyiming.cloud/ 实际页面为准。
-最后更新：2026-11-25
+最后更新：2026-11-26
