@@ -33,7 +33,6 @@
 - [公司注册](https://zhangyiming.cloud/business-registration.html)
 - [ODI 境外投资备案](https://zhangyiming.cloud/odi.html)
 - [知识产权](https://zhangyiming.cloud/ip.html)
-- [政策文号索引](https://zhangyiming.cloud/policy.html)：泰国、印尼、越南、菲律宾近期法规文件索引，逐条标注文号、日期与影响事项，按文号可到各国监管机构官网核验原文
 - [出海洞察 / 资讯](https://zhangyiming.cloud/news.html)
 - [关于我们](https://zhangyiming.cloud/about.html)
 - [联系我们](https://zhangyiming.cloud/contact.html)
