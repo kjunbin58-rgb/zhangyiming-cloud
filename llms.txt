@@ -73,8 +73,18 @@
 
 ## 资讯文章
 
-- 共 287 篇，全部为简体中文原创，按发布时间倒序：https://zhangyiming.cloud/news.html
+- 共 297 篇，全部为简体中文原创，按发布时间倒序：https://zhangyiming.cloud/news.html
 
+- [马来西亚数据中心要交30%本地成分，MIDA按半年报查](https://zhangyiming.cloud/news/malaysia-data-centre-30pct-local-content.html)
+- [印尼矿业出口留存降到30%，中资股东持股要满10%](https://zhangyiming.cloud/news/indonesia-dhe-sda-30pct-shareholder-10pct.html)
+- [越南电商小包要报关了：单笔100万盾免关税，平台成报关人](https://zhangyiming.cloud/news/vietnam-decree417-ecommerce-customs-mar2027.html)
+- [菲律宾网贷牌照重开：一个平台1000万比索，五个平台5000万](https://zhangyiming.cloud/news/philippines-olp-mc20-capital-threshold.html)
+- [中资在新加坡固投承诺占比从2.5%跳到20.6%](https://zhangyiming.cloud/news/singapore-chinese-fdi-commitment-20pct-2025.html)
+- [越南北宁11个月出口1155亿美元，手机和电脑占去94%](https://zhangyiming.cloud/news/vietnam-bacninh-export-115b-11months.html)
+- [印尼PT PMA的三笔钱别混算：25亿、100亿、100亿盾各管各的](https://zhangyiming.cloud/news/indonesia-pt-pma-three-capital-figures.html)
+- [越南先拿ERC后补IRC：12个月是硬线，没IRC不能开工](https://zhangyiming.cloud/news/vietnam-erc-first-irc-12months.html)
+- [新加坡注册不是自己点几下：没有Singpass必须走持牌代理](https://zhangyiming.cloud/news/singapore-foreign-founder-csp-filing.html)
+- [泰国转股不是签完字就完：14天内报DBD，印花税按孰高算](https://zhangyiming.cloud/news/thailand-share-transfer-14days-dbd.html)
 - [印尼个人卖家12月底前交NIB：条例给18个月，平台只给到年底](https://zhangyiming.cloud/news/indonesia-nib-platform-deadline-dec2026.html)
 - [泰国逾100万家法人被提醒：网站直接卖货可能要先登记](https://zhangyiming.cloud/news/thailand-ocpb-direct-marketing-registration-nov16.html)
 - [越南战略项目新法：优惠与到资挂钩，2027年3月31日施行](https://zhangyiming.cloud/news/vietnam-investment-law-strategic-projects-nov20.html)
@@ -365,4 +375,4 @@
 
 ---
 本文件用于帮助 AI 助手准确理解本站业务与实体信息。内容以 https://zhangyiming.cloud/ 实际页面为准。
-最后更新：2026-11-26
+最后更新：2026-11-27
