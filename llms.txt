@@ -33,6 +33,9 @@
 - [公司注册](https://zhangyiming.cloud/business-registration.html)
 - [ODI 境外投资备案](https://zhangyiming.cloud/odi.html)
 - [知识产权](https://zhangyiming.cloud/ip.html)
+- [出海路径自查](https://zhangyiming.cloud/path.html)：按「主体没定 / 产品要进关 / 要上平台 / 已在卖出问题」四个阶段，列明每个阶段要办什么、准备什么材料、最容易卡在哪
+- [政策文号索引](https://zhangyiming.cloud/policy.html)：泰国、印尼、越南、菲律宾近期法规文件索引，逐条标注文号、日期与影响事项，按文号可到各国监管机构官网核验原文
+- [五国市场准入对照](https://zhangyiming.cloud/compare.html)：按公司注册、化妆品通报、食品准入、电器与无线认证、商标五个事项，横向对照印尼、马来西亚、泰国、菲律宾、越南、新加坡的主管机构与前置条件
 - [出海洞察 / 资讯](https://zhangyiming.cloud/news.html)
 - [关于我们](https://zhangyiming.cloud/about.html)
 - [联系我们](https://zhangyiming.cloud/contact.html)
@@ -43,37 +46,37 @@
 
 ## 服务详情页（中文）
 
-- [印尼AKL认证](https://zhangyiming.cloud/cert-id-akl.html)：印尼AKL认证 - 一鸣出海提供产品认证全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [印尼BPOM认证](https://zhangyiming.cloud/cert-id-bpom.html)：印尼BPOM认证 - 一鸣出海提供产品认证全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [印尼清真认证](https://zhangyiming.cloud/cert-id-halal.html)：印尼清真认证 - 一鸣出海提供产品认证全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [印尼SDPPI认证](https://zhangyiming.cloud/cert-id-sdppi.html)：印尼SDPPI认证 - 一鸣出海提供产品认证全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [印尼SNI认证](https://zhangyiming.cloud/cert-id-sni.html)：印尼SNI认证 - 一鸣出海提供产品认证全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [马来FOSIM注册](https://zhangyiming.cloud/cert-my-fosim.html)：马来FOSIM注册 - 一鸣出海提供产品认证全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [马来清真认证](https://zhangyiming.cloud/cert-my-halal.html)：马来清真认证 - 一鸣出海提供产品认证全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [马来MCMC认证](https://zhangyiming.cloud/cert-my-mcmc.html)：马来MCMC认证 - 一鸣出海提供产品认证全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [马来MDA认证](https://zhangyiming.cloud/cert-my-mda.html)：马来MDA认证 - 一鸣出海提供产品认证全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [马来NPRA注册](https://zhangyiming.cloud/cert-my-npra.html)：马来NPRA注册 - 一鸣出海提供产品认证全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [马来SIRIM认证](https://zhangyiming.cloud/cert-my-sirim.html)：马来SIRIM认证 - 一鸣出海提供产品认证全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [菲律宾FDA认证](https://zhangyiming.cloud/cert-ph-fda.html)：菲律宾FDA认证 - 一鸣出海提供产品认证全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [菲律宾PS/ICC认证](https://zhangyiming.cloud/cert-ph-ps-icc.html)：菲律宾PS/ICC认证 - 一鸣出海提供产品认证全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [泰国FDA认证](https://zhangyiming.cloud/cert-th-fda.html)：泰国FDA认证 - 一鸣出海提供产品认证全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [泰国TISI认证](https://zhangyiming.cloud/cert-th-tisi.html)：泰国TISI认证 - 一鸣出海提供产品认证全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [香港公司注册](https://zhangyiming.cloud/co-hk.html)：香港公司注册 - 一鸣出海提供工商注册全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [印尼公司注册](https://zhangyiming.cloud/co-id.html)：印尼公司注册 - 一鸣出海提供工商注册全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [马来公司注册](https://zhangyiming.cloud/co-my.html)：马来公司注册 - 一鸣出海提供工商注册全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [菲律宾公司注册](https://zhangyiming.cloud/co-ph.html)：菲律宾公司注册 - 一鸣出海提供工商注册全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [新加坡公司注册](https://zhangyiming.cloud/co-sg.html)：新加坡公司注册 - 一鸣出海提供工商注册全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [泰国公司注册](https://zhangyiming.cloud/co-th.html)：泰国公司注册 - 一鸣出海提供工商注册全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [越南公司注册](https://zhangyiming.cloud/co-vn.html)：越南公司注册 - 一鸣出海提供工商注册全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [印尼商标注册](https://zhangyiming.cloud/ip-id.html)：印尼商标注册 - 一鸣出海提供知识产权全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [马来商标注册](https://zhangyiming.cloud/ip-my.html)：马来商标注册 - 一鸣出海提供知识产权全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [菲律宾商标注册](https://zhangyiming.cloud/ip-ph.html)：菲律宾商标注册 - 一鸣出海提供知识产权全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [泰国商标注册](https://zhangyiming.cloud/ip-th.html)：泰国商标注册 - 一鸣出海提供知识产权全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
-- [越南商标注册](https://zhangyiming.cloud/ip-vn.html)：越南商标注册 - 一鸣出海提供知识产权全流程代办服务：材料清单、送检申报、监管对接、证书交付，覆盖菲律宾、印尼、泰国、越南、马来西亚、新加坡。
+- [印尼AKL认证](https://zhangyiming.cloud/cert-id-akl.html)：印尼 AKL 化妆品通报（Notifikasi Kosmetik）：由 BPOM 监管，适用于护肤、彩妆、洗护类产品。需指定本地责任人，完成成分与标签合规审核后提交通报，取得通报号方可上架销售。
+- [印尼BPOM认证](https://zhangyiming.cloud/cert-id-bpom.html)：印尼 BPOM 注册：由印尼食品药品监督管理局监管，覆盖食品、保健食品、药品与化妆品。按品类提交配方、工艺、标签与本地进口商或工厂资质，取得注册号后合法流通。
+- [印尼清真认证](https://zhangyiming.cloud/cert-id-halal.html)：印尼清真认证：由 BPJPH（清真产品保证局）主管，联合 LPH 审核机构执行。涵盖原料清真性核验、生产体系文件与现场审核，食品饮料品类已进入强制实施阶段。
+- [印尼SDPPI认证](https://zhangyiming.cloud/cert-id-sdppi.html)：印尼 SDPPI 型号核准：通信与无线设备（手机、蓝牙、WiFi、射频模块）进入印尼的强制认证，由通信与数字部主管。需提交射频与 EMC 测试报告，并指定本地代理持有证书。
+- [印尼SNI认证](https://zhangyiming.cloud/cert-id-sni.html)：印尼 SNI 认证：印尼国家标准认证，由 BSN 制定标准、LSPro 认证机构发证。电器、玩具、食品等受管品类须通过产品测试与工厂质量体系审查，并接受年度监督审核。
+- [马来FOSIM注册](https://zhangyiming.cloud/cert-my-fosim.html)：马来 FOSIM 食品进口申报：马来西亚食品安全与质量司（FSQD）管理的进口食品申报系统。每批货物入境前须由本地进口商逐批申报，取得放行许可后方可清关。
+- [马来清真认证](https://zhangyiming.cloud/cert-my-halal.html)：马来 Halal 认证：由 JAKIM（伊斯兰发展局）主管，依据 MS1500 标准审核。涵盖原料清真性、生产设备隔离与现场审查，海外工厂需接受 JAKIM 认可的境外审核。
+- [马来MCMC认证](https://zhangyiming.cloud/cert-my-mcmc.html)：马来 MCMC 认证：通信与多媒体委员会主管的通信设备合规核准，由 SIRIM QAS 执行型式检验。无线与电信终端产品须完成射频、EMC 与安全测试后方可贴标销售。
+- [马来MDA认证](https://zhangyiming.cloud/cert-my-mda.html)：马来 MDA 医疗器械注册：马来西亚医疗器械管理局按风险将产品分为 A 至 D 类，注册前须指定本地授权代表（AR），并提交技术文件与符合性声明。
+- [马来NPRA注册](https://zhangyiming.cloud/cert-my-npra.html)：马来 NPRA 注册：国家药品管理局主管药品、传统药与化妆品的准入。化妆品走通报制，药品与传统药需完成完整审评，本地公司须持有相应执照。
+- [马来SIRIM认证](https://zhangyiming.cloud/cert-my-sirim.html)：马来 SIRIM 认证：SIRIM QAS 执行的电气电子产品认证，覆盖家用电器、电源、灯具等受管品类。含安全测试、工厂审查与年度监督，通过后加贴认证标志。
+- [菲律宾FDA认证](https://zhangyiming.cloud/cert-ph-fda.html)：菲律宾 FDA 注册：菲律宾食品药品管理局主管食品、药品、化妆品与医疗器械。通常需先取得经营许可（LTO），再按品类完成产品注册（CPR）或通报。
+- [菲律宾PS/ICC认证](https://zhangyiming.cloud/cert-ph-ps-icc.html)：菲律宾 PS/ICC 认证：菲律宾标准局（BPS）主管的产品强制认证。本地生产走 PS 标志，进口产品走 ICC 标志，均需通过产品测试与工厂质量体系审核。
+- [泰国FDA认证](https://zhangyiming.cloud/cert-th-fda.html)：泰国 FDA 注册：泰国公共卫生部食品药品管理局主管食品、药品、化妆品与医疗器械。食品按配方与标签分档备案，化妆品走通报，器械按风险分级申报。
+- [泰国TISI认证](https://zhangyiming.cloud/cert-th-tisi.html)：泰国 TISI 认证：泰国工业标准研究院的强制认证，覆盖电器电子、医疗设备等受管产品。须完成标准核对、样品送检、工厂审查，并取得进口许可证后方可清关。
+- [香港公司注册](https://zhangyiming.cloud/co-hk.html)：香港公司注册：向公司注册处申请成立有限公司，须委任法定秘书并提供本地注册地址。成立后按年提交周年申报表、办理商业登记与利得税报税。
+- [印尼公司注册](https://zhangyiming.cloud/co-id.html)：印尼公司注册：设立 PT PMA 外资公司，通过 OSS 系统申请营业识别号（NIB）。需符合外资准入清单与最低投资额要求，并落实本地地址与董事安排。
+- [马来公司注册](https://zhangyiming.cloud/co-my.html)：马来公司注册：向 SSM 注册 Sdn Bhd 私人有限公司，须至少一名常驻马来西亚的董事。注册后办理税务登记、开立银行账户并保持年度申报。
+- [菲律宾公司注册](https://zhangyiming.cloud/co-ph.html)：菲律宾公司注册：外资公司向 SEC 注册，独资企业向 DTI 登记，随后办理 BIR 税务登记与地方政府营业许可。部分行业受外资股比限制。
+- [新加坡公司注册](https://zhangyiming.cloud/co-sg.html)：新加坡公司注册：向 ACRA 申请成立私人有限公司，须一名本地常驻董事与公司秘书。注册后衔接就业准证（EP）申请与银行开户。
+- [泰国公司注册](https://zhangyiming.cloud/co-th.html)：泰国公司注册：向商业发展厅（DBD）办理法人登记。受《外商经营法》约束，多数业务泰籍股东须持股 51%，外资控股需申请外商经营许可证（FBL）。
+- [越南公司注册](https://zhangyiming.cloud/co-vn.html)：越南公司注册：由计划投资厅核发投资登记证（IRC）与企业登记证（ERC）。外资须符合行业准入条件，部分业务要求额外许可证方可经营。
+- [印尼商标注册](https://zhangyiming.cloud/ip-id.html)：印尼商标注册：向 DGIP（知识产权总局）提交申请，经形式审查、实质审查与公告期后核准。注册商标有效期十年，可续展。
+- [马来商标注册](https://zhangyiming.cloud/ip-my.html)：马来商标注册：向 MyIPO 提交申请，经审查与公告异议期后核准注册。商标专用权自注册日起算，可依法续展。
+- [菲律宾商标注册](https://zhangyiming.cloud/ip-ph.html)：菲律宾商标注册：向 IPOPHL 提交申请，经审查与公告异议期后核准。注册后须按期提交使用声明，以维持商标权利。
+- [泰国商标注册](https://zhangyiming.cloud/ip-th.html)：泰国商标注册：向知识产权厅（DIP）提交申请，经审查与公告后核准。商标权在泰国按类保护，建议与公司主体同步布局。
+- [越南商标注册](https://zhangyiming.cloud/ip-vn.html)：越南商标注册：向 NOIP（知识产权局）提交申请，经形式审查、实质审查与公告后核准。马德里体系与单一国申请可并行考虑。
 
 ## 资讯文章
 
-- 共 297 篇，全部为简体中文原创，按发布时间倒序：https://zhangyiming.cloud/news.html
+- 共 299 篇，全部为简体中文原创，按发布时间倒序：https://zhangyiming.cloud/news.html
 
 - [马来西亚数据中心要交30%本地成分，MIDA按半年报查](https://zhangyiming.cloud/news/malaysia-data-centre-30pct-local-content.html)
 - [印尼矿业出口留存降到30%，中资股东持股要满10%](https://zhangyiming.cloud/news/indonesia-dhe-sda-30pct-shareholder-10pct.html)
@@ -369,7 +372,9 @@
 - [TikTok Shop 三站严罚「货不对板」：单次最高扣 20 分，旺季前卖家怎么自查](https://zhangyiming.cloud/news/tiktok-shop-listing-accuracy-crackdown.html)
 - [在菲律宾开公司，DTI 和 SEC 到底该选哪个？选错要重新注册](https://zhangyiming.cloud/news/dti-or-sec-philippines.html)
 - [先做认证还是先注册商标？顺序错了，钱和半年时间一起打水漂](https://zhangyiming.cloud/news/certification-or-trademark-first.html)
+- [菲律宾PS/ICC认证怎么办？强制目录、五种证书和标签红线一次讲清](https://zhangyiming.cloud/news/philippines-ps-icc-certification-guide.html)
 - [马来 Sdn Bhd 官费就 RM1,000：核名 RM50 可留 180 天，秘书 30 天内到位](https://zhangyiming.cloud/news/malaysia-sdn-bhd-incorporation-rm1000.html)
+- [菲律宾注册公司资本门槛怎么算？5000美元、50万美元和100万比索分清楚](https://zhangyiming.cloud/news/philippines-company-registration-capital-threshold.html)
 - [泰国 2025 新设企业 85,251 家：家数小跌，注册资本缩水 7.53%](https://zhangyiming.cloud/news/thailand-new-firms-2025-85251.html)
 - [越南注册是两证制：先拿 IRC 再办 ERC，顺序反了全卡住](https://zhangyiming.cloud/news/vietnam-irc-erc-two-certificate-system.html)
 
