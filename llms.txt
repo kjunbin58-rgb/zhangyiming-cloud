@@ -76,8 +76,18 @@
 
 ## 资讯文章
 
-- 共 299 篇，全部为简体中文原创，按发布时间倒序：https://zhangyiming.cloud/news.html
+- 共 309 篇，全部为简体中文原创，按发布时间倒序：https://zhangyiming.cloud/news.html
 
+- [菲律宾10月外汇储备跌至973.5亿美元：进口付汇企业要看的三个数](https://zhangyiming.cloud/news/philippines-gir-october-97b.html)
+- [越南前10月注册外资548.5亿美元，实际到位率却降到44%](https://zhangyiming.cloud/news/vietnam-fdi-disbursement-ratio-44pct.html)
+- [越南外资项目延期卡在24个月：96号令把迟延交地排除在进度外](https://zhangyiming.cloud/news/vietnam-decree96-project-timeline-24months.html)
+- [马来西亚外资税收优惠改看就业质量：MIDA新框架2026年3月已生效](https://zhangyiming.cloud/news/malaysia-mida-incentive-framework-jobs-quality.html)
+- [新加坡ACRA发出2026财报审阅清单：六个领域董事签字前要问什么](https://zhangyiming.cloud/news/singapore-acra-fy2026-financial-review-guide.html)
+- [马来西亚新公司第一年报税：CP204三个月，Form C七个月](https://zhangyiming.cloud/news/malaysia-sdn-bhd-first-year-tax-filing.html)
+- [泰国公司减资不是股东说了算：债权人有30天异议期](https://zhangyiming.cloud/news/thailand-capital-reduction-creditor-30days.html)
+- [新加坡外籍员工拿到PR当月就要缴CPF：雇主别踩这个时间差](https://zhangyiming.cloud/news/singapore-cpf-foreign-staff-pr-transition.html)
+- [印尼进口资质选错要重来：API-U与API-P的转换和撤销规则](https://zhangyiming.cloud/news/indonesia-api-u-api-p-conversion-2026.html)
+- [越南现成厂房吃掉56.84%新制造项目：选址逻辑变了](https://zhangyiming.cloud/news/vietnam-ready-built-factory-56pct.html)
 - [马来西亚数据中心要交30%本地成分，MIDA按半年报查](https://zhangyiming.cloud/news/malaysia-data-centre-30pct-local-content.html)
 - [印尼矿业出口留存降到30%，中资股东持股要满10%](https://zhangyiming.cloud/news/indonesia-dhe-sda-30pct-shareholder-10pct.html)
 - [越南电商小包要报关了：单笔100万盾免关税，平台成报关人](https://zhangyiming.cloud/news/vietnam-decree417-ecommerce-customs-mar2027.html)
@@ -380,4 +390,4 @@
 
 ---
 本文件用于帮助 AI 助手准确理解本站业务与实体信息。内容以 https://zhangyiming.cloud/ 实际页面为准。
-最后更新：2026-11-27
+最后更新：2026-11-28

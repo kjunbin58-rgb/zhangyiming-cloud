@@ -1,0 +1,16 @@
+{
+ "items": [
+  {
+   "date": "2026-11-27",
+   "platform": "大数跨境 10100.com",
+   "account": "一鸣出海",
+   "title": "越南电商包裹2027年3月起要报关：平台成报关人，免关税额度跟买家走",
+   "slug": "vietnam-decree417-ecommerce-customs-mar2027",
+   "cover": "covers/cover_vietnam_417_nowm.jpg",
+   "status": "审核中",
+   "submittedAt": "2026-11-27T19:20+08:00",
+   "specFile": "2026-11-27.json",
+   "note": "首次提交通道打通：TinyMCE setContent 写正文 + file input 塞图 + 裁切弹窗点确定。封面已去 AI 水印。"
+  }
+ ]
+}
