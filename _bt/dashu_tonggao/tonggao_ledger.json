@@ -1,16 +1,27 @@
 {
- "items": [
-  {
-   "date": "2026-11-27",
-   "platform": "大数跨境 10100.com",
-   "account": "一鸣出海",
-   "title": "越南电商包裹2027年3月起要报关：平台成报关人，免关税额度跟买家走",
-   "slug": "vietnam-decree417-ecommerce-customs-mar2027",
-   "cover": "covers/cover_vietnam_417_nowm.jpg",
-   "status": "审核中",
-   "submittedAt": "2026-11-27T19:20+08:00",
-   "specFile": "2026-11-27.json",
-   "note": "首次提交通道打通：TinyMCE setContent 写正文 + file input 塞图 + 裁切弹窗点确定。封面已去 AI 水印。"
-  }
- ]
+  "items": [
+    {
+      "date": "2026-11-27",
+      "platform": "大数跨境 10100.com",
+      "account": "一鸣出海",
+      "title": "越南电商包裹2027年3月起要报关：平台成报关人，免关税额度跟买家走",
+      "slug": "vietnam-decree417-ecommerce-customs-mar2027",
+      "cover": "covers/cover_vietnam_417_nowm.jpg",
+      "status": "审核中",
+      "submittedAt": "2026-11-27T19:20+08:00",
+      "specFile": "2026-11-27.json",
+      "note": "首次提交通道打通：TinyMCE setContent 写正文 + file input 塞图 + 裁切弹窗点确定。封面已去 AI 水印。"
+    },
+    {
+      "date": "2026-11-28",
+      "platform": "10100.com",
+      "account": "一鸣出海",
+      "title": "越南外资项目延期上限24个月：96号令把迟延交地排除在进度外",
+      "slug": "vietnam-decree96-project-timeline-24months",
+      "cover": "D:/Program Files/2026-10-29-15-59-38/zhangyiming-website/_bt/dashu_tonggao/covers/cover_vietnam_project_timeline_nowm.jpg",
+      "status": "审核中",
+      "submittedAt": "2026-11-28T10:23:25",
+      "specFile": "D:/Program Files/2026-10-29-15-59-38/zhangyiming-website/_bt/dashu_tonggao/2026-11-28.json"
+    }
+  ]
 }
